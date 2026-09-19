@@ -1,11 +1,11 @@
-<![CDATA[<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                        🏗️  RIGISHUKLA                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- Animated typing header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1A73E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rigi+Shukla;Founder+%26+Builder+%7C+Full-Stack+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1A73E8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rigi+Shukla;Founder+%26+Builder+%7C+Full-Stack+Engineer" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -126,7 +126,7 @@ superpower: Going from "what if" to production in unreasonably short timescales
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rigishukla&theme=tokyonight&hide_border=true&background=0D1117&ring=1A73E8&fire=1A73E8&currStreakLabel=1A73E8)
+<img src="https://streak-stats.demolab.com?user=rigishukla&theme=tokyonight&hide_border=true&background=0D1117&ring=1A73E8&fire=1A73E8&currStreakLabel=1A73E8" alt="GitHub Streak" />
 
 </div>
 
@@ -164,4 +164,3 @@ superpower: Going from "what if" to production in unreasonably short timescales
   <br/><br/>
   <samp>Built with ☕ and an unhealthy amount of TypeScript.</samp>
 </div>
-]]>
